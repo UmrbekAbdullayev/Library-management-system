@@ -51,3 +51,4 @@ Report bugs by opening an issue
 Suggest new features
 Improve the code by creating a pull request
 Please make sure your code is clean and well-commented.
+
