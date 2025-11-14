@@ -1,0 +1,302 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": 1001,
+        "copies": 11
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": 1002,
+        "copies": 17
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": 1003,
+        "copies": 10
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": 1004,
+        "copies": 9
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": 1005,
+        "copies": 13
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isbn": 1006,
+        "copies": 19
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": 1007,
+        "copies": 14
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": 1008,
+        "copies": 15
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn": 1009,
+        "copies": 8
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u00eb",
+        "isbn": 1010,
+        "copies": 16
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn": 1011,
+        "copies": 11
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": 1012,
+        "copies": 7
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": 1013,
+        "copies": 18
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isbn": 1014,
+        "copies": 20
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u00eb",
+        "isbn": 1015,
+        "copies": 6
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "isbn": 1016,
+        "copies": 10
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "isbn": 1017,
+        "copies": 13
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "isbn": 1018,
+        "copies": 9
+    },
+    {
+        "title": "Les Mis\u00e9rables",
+        "author": "Victor Hugo",
+        "isbn": 1019,
+        "copies": 15
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "isbn": 1020,
+        "copies": 19
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "isbn": 1021,
+        "copies": 14
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "isbn": 1022,
+        "copies": 16
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": 1023,
+        "copies": 17
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "isbn": 1024,
+        "copies": 7
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "isbn": 1025,
+        "copies": 11
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "isbn": 1026,
+        "copies": 8
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "isbn": 1027,
+        "copies": 10
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "isbn": 1028,
+        "copies": 12
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "isbn": 1029,
+        "copies": 18
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "isbn": 1030,
+        "copies": 13
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "isbn": 1031,
+        "copies": 15
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell",
+        "isbn": 1032,
+        "copies": 19
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "isbn": 1033,
+        "copies": 9
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "isbn": 1034,
+        "copies": 14
+    },
+    {
+        "title": "Angels & Demons",
+        "author": "Dan Brown",
+        "isbn": 1035,
+        "copies": 10
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "isbn": 1036,
+        "copies": 13
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "isbn": 1037,
+        "copies": 7
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "isbn": 1038,
+        "copies": 11
+    },
+    {
+        "title": "It",
+        "author": "Stephen King",
+        "isbn": 1039,
+        "copies": 15
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen King",
+        "isbn": 1040,
+        "copies": 17
+    },
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "isbn": 1041,
+        "copies": 12
+    },
+    {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "isbn": 1042,
+        "copies": 19
+    },
+    {
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin",
+        "isbn": 1043,
+        "copies": 8
+    },
+    {
+        "title": "A Storm of Swords",
+        "author": "George R.R. Martin",
+        "isbn": 1044,
+        "copies": 14
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "isbn": 1045,
+        "copies": 10
+    },
+    {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "isbn": 1046,
+        "copies": 18
+    },
+    {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "isbn": 1047,
+        "copies": 16
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": 1048,
+        "copies": 20
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "isbn": 1049,
+        "copies": 13
+    },
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "isbn": 1050,
+        "copies": 15
+    }
+]
