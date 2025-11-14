@@ -51,5 +51,3 @@ Report bugs by opening an issue
 Suggest new features
 Improve the code by creating a pull request
 Please make sure your code is clean and well-commented.
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f80134db-7879-4025-a6f5-4b7b89eb4781" />
